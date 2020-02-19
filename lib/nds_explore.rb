@@ -13,6 +13,6 @@ def print_first_directors_movie_titles
   index = 0
   
   while index < movies.length do
-    titles = movies[index][:titles]
+    titles = movies[index][:title]
     
 end
