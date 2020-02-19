@@ -16,4 +16,5 @@ def print_first_directors_movie_titles
     titles = movies[index][:title]
     puts titles
     index += 1
+  end
 end
